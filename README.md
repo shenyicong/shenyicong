@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Shen Yicong — Embedded · Data · Web" width="100%" />
+  <img src="assets/banner.svg" alt="沈奕聪 — 嵌入式 · 数据分析 · 前端开发" width="100%" />
 
   <br/>
 
   <a href="https://github.com/shenyicong">
-    <img src="https://komarev.com/ghpvc/?username=shenyicong&label=PROFILE%20VIEWS&color=00f0ff&style=flat-square" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=shenyicong&label=主页访问&color=00f0ff&style=flat-square" alt="主页访问量" />
   </a>
   <a href="https://github.com/shenyicong?tab=followers">
-    <img src="https://img.shields.io/github/followers/shenyicong?label=FOLLOWERS&style=flat-square&color=7b61ff" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/shenyicong?label=关注者&style=flat-square&color=7b61ff" alt="关注者" />
   </a>
-  <img src="https://img.shields.io/badge/FOCUS-EMBEDDED%20%7C%20DATA%20%7C%20WEB-ff2d95?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-00ff9d?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/方向-嵌入式%20%7C%20数据%20%7C%20前端-ff2d95?style=flat-square" alt="方向" />
+  <img src="https://img.shields.io/badge/状态-持续构建中-00ff9d?style=flat-square" alt="状态" />
 </div>
 
 <img src="assets/divider.svg" width="100%" />
@@ -30,7 +30,7 @@ shenyicong@github:~$ echo $PHILOSOPHY
 
 <img src="assets/divider.svg" width="100%" />
 
-## ⚡ Tech Stack
+## ⚡ 技术栈
 
 <div align="center">
 
@@ -65,7 +65,7 @@ shenyicong@github:~$ echo $PHILOSOPHY
 
 <img src="assets/divider.svg" width="100%" />
 
-## 🧩 Featured Work
+## 🧩 精选项目
 
 <table>
 <tr>
@@ -83,6 +83,8 @@ shenyicong@github:~$ echo $PHILOSOPHY
 
 `main.c` `LCD12864.c` `DS18B20.c`
 
+[→ 查看仓库](https://github.com/shenyicong/smart-fan-at89c51)
+
 </td>
 <td width="50%" valign="top">
 
@@ -97,6 +99,8 @@ shenyicong@github:~$ echo $PHILOSOPHY
 - 可视化驱动的结论输出
 
 `requests` `pandas` `matplotlib`
+
+[→ 查看仓库](https://github.com/shenyicong/yiche-car-analysis)
 
 </td>
 </tr>
@@ -118,14 +122,19 @@ shenyicong@github:~$ echo $PHILOSOPHY
 </td>
 <td width="50%" valign="top">
 
-### 🔧 更多实验
-> *持续迭代中*
+### 🚀 星骸战甲 ASTRA FRAME
+> *Three.js · WebGL · 原生 JS*
 
-- 定时器 / 中断 / 串口通信实践
-- 数据结构与算法练习
-- 小型工具脚本
+浏览器端第三人称科幻射击演示。程序化生成战场与贴图，逐步揭开地图迷雾。
 
-*仓库建设中，敬请期待*
+**技术要点**
+- 全程序化贴图：分形噪声 → 高度图 → 法线贴图，零外部资源
+- 迷雾视野系统：标量场 + 着色器遮罩，未探索区域不渲染敌人
+- 性能优化：固定步长逻辑、实例化网格、对象池、动态像素比
+
+`Three.js` `ShaderMaterial` `WebAudio`
+
+[→ 查看仓库](https://github.com/shenyicong/astra-frame)
 
 </td>
 </tr>
@@ -133,7 +142,7 @@ shenyicong@github:~$ echo $PHILOSOPHY
 
 <img src="assets/divider.svg" width="100%" />
 
-## 📈 Activity
+## 📈 活跃度
 
 <div align="center">
 
@@ -152,19 +161,20 @@ shenyicong@github:~$ echo $PHILOSOPHY
 
 <img src="assets/divider.svg" width="100%" />
 
-## 🎯 Currently
+## 🎯 当前动态
 
 ```yaml
-learning:
+正在学习:
   - 嵌入式系统设计模式与可维护性
   - Python 数据管道的工程化
   - Git 工作流与协作规范
 
-building:
+正在构建:
+  - 星骸战甲 ASTRA FRAME（Web 端实时射击）
   - 智能风扇系统的代码重构
   - 车型数据分析的可复现流程
 
-open_to:
+开放合作:
   - 嵌入式 / 数据方向的实习与项目合作
 ```
 
@@ -178,6 +188,6 @@ open_to:
 
 ![Visitors](https://raw.githubusercontent.com/shenyicong/shenyicong/output/github-contribution-grid-snake-dark.svg)
 
-<sub>Last updated · 2026</sub>
+<sub>最后更新 · 2026</sub>
 
 </div>
