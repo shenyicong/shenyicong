@@ -1,0 +1,8 @@
+# 本地预览生成物
+preview.html
+build_preview.py
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
