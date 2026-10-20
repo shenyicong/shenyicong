@@ -4,7 +4,7 @@
   <br/>
 
   <a href="https://github.com/shenyicong">
-    <img src="https://komarev.com/ghpvc/?username=shenyicong&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE&color=00f0ff&style=flat-square" alt="主页访问量" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=shenyicong.profile" alt="主页访问量" />
   </a>
   <a href="https://github.com/shenyicong?tab=followers">
     <img src="https://img.shields.io/github/followers/shenyicong?label=%E5%85%B3%E6%B3%A8%E8%80%85&style=flat-square&color=7b61ff" alt="关注者" />
