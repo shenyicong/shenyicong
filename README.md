@@ -4,13 +4,13 @@
   <br/>
 
   <a href="https://github.com/shenyicong">
-    <img src="https://komarev.com/ghpvc/?username=shenyicong&label=主页访问&color=00f0ff&style=flat-square" alt="主页访问量" />
+    <img src="https://komarev.com/ghpvc/?username=shenyicong&label=PROFILE+VIEWS&color=00f0ff&style=flat-square" alt="Profile views" />
   </a>
   <a href="https://github.com/shenyicong?tab=followers">
-    <img src="https://img.shields.io/github/followers/shenyicong?label=关注者&style=flat-square&color=7b61ff" alt="关注者" />
+    <img src="https://img.shields.io/github/followers/shenyicong?label=FOLLOWERS&style=flat-square&color=7b61ff" alt="Followers" />
   </a>
-  <img src="https://img.shields.io/badge/方向-嵌入式%20%7C%20数据%20%7C%20前端-ff2d95?style=flat-square" alt="方向" />
-  <img src="https://img.shields.io/badge/状态-持续构建中-00ff9d?style=flat-square" alt="状态" />
+  <img src="https://img.shields.io/badge/FOCUS-EMBEDDED%20%7C%20DATA%20%7C%20WEB-ff2d95?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-00ff9d?style=flat-square" alt="Status" />
 </div>
 
 <img src="assets/divider.svg" width="100%" />
