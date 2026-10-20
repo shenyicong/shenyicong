@@ -4,13 +4,13 @@
   <br/>
 
   <a href="https://github.com/shenyicong">
-    <img src="https://komarev.com/ghpvc/?username=shenyicong&label=PROFILE+VIEWS&color=00f0ff&style=flat-square" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=shenyicong&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE&color=00f0ff&style=flat-square" alt="主页访问量" />
   </a>
   <a href="https://github.com/shenyicong?tab=followers">
-    <img src="https://img.shields.io/github/followers/shenyicong?label=FOLLOWERS&style=flat-square&color=7b61ff" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/shenyicong?label=%E5%85%B3%E6%B3%A8%E8%80%85&style=flat-square&color=7b61ff" alt="关注者" />
   </a>
-  <img src="https://img.shields.io/badge/FOCUS-EMBEDDED%20%7C%20DATA%20%7C%20WEB-ff2d95?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-00ff9d?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/%E6%96%B9%E5%90%91-%E5%B5%8C%E5%85%A5%E5%BC%8F%7C%E6%95%B0%E6%8D%AE%7C%E5%89%8D%E7%AB%AF-ff2d95?style=flat-square" alt="方向" />
+  <img src="https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E6%8C%81%E7%BB%AD%E6%9E%84%E5%BB%BA%E4%B8%AD-00ff9d?style=flat-square" alt="状态" />
 </div>
 
 <img src="assets/divider.svg" width="100%" />
